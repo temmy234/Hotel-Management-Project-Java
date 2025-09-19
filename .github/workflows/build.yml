@@ -16,4 +16,4 @@ jobs:
       - name: SonarQube Scan
         uses: SonarSource/sonarqube-scan-action@v5
         env:
-          SONAR_TOKEN: ${{ secrets.f8e8a897ec0e720fa5d3e746a8b2680b4faee98f }}# This workflow uses actions that are not certified by GitHub.
+          SONAR_TOKEN: ${{ secrets.7031307d734c026467455793a3bc989d79ed5cbc }}# This workflow uses actions that are not certified by GitHub.
